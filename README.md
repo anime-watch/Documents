@@ -2,7 +2,7 @@
 
 ## Lisans Veren 
 
-### Licensor: animewatch.org ve oyrut.com.tr
+### Licensor: animewatch.org
 ### E-posta: animewatchiletisim@gmail.com
 ### Geçerlilik Tarihi: 23 Temmuz 2024 tarihinden itibaren ömür boyu geçerlidir.
 
